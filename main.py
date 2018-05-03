@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Compare extractive summarization APIs available on Mashape
+See and compare the output of popular extractive summarization APIs.
 @author Bryan Andrade <bryand1@gmail.com>
 @version v0.0.1
 
@@ -8,7 +8,7 @@ APIs tested
 1. TextAnalysis Text Summarization
 2. SMMRY
 
-Usage: python3 mashape.py [--api textsummarization | smmry]
+Usage: python3 main.py [--api textsummarization | smmry]
 
 Args:
 --api  Choose which API to test. Default is to run all APIs
@@ -19,7 +19,7 @@ import config
 import os
 import util
 
-logger = util.get_logger("mashape")
+logger = util.get_logger("main")
 
 if __name__ == '__main__':
     p = argparse.ArgumentParser()
