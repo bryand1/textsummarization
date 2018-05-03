@@ -1,0 +1,163 @@
+If there were ever a time when Lyft had a chance to catch up with Uber, it was last year. A constant barrage of negative publicity, including a #deleteUber social media movement, offered Lyft a gift in terms of picking up business.
+
+But while Lyft made some gains, it still finished the year with just 30% of the market, in terms of revenue, far behind Uber’s 70%. And its market share growth largely stalled six months ago, according to new data and people at both companies. That performance, which disappointed Lyft insiders, is due to the same factors that have held Lyft back in its six-year battle with Uber: Lyft simply moves slower than Uber—both in developing features for riders and making decisions about new markets. 
+
+“We couldn’t get out of our own way from a product and engineering perspective,” said one former Lyft manager.
+
+According to current and former Lyft and Uber employees, Lyft’s history is one of countless missed opportunities, allowing Uber to grab a lead and build on it. For example, Lyft developed a cheaper shared-ride service called Lyft Line before Uber, but allowed Uber to get ahead with announcing its own, not-yet-developed version, called UberPool. Lyft worked on “upfront pricing”—telling riders the price of a ride before they book—for months before Uber beat it to the punch.
+
+Lyft also has been far behind Uber in terms of developing internal tools to monitor everything from Lyft’s own daily financial performance to Uber’s prices. (A chart at the bottom of the story shows market share for Lyft and Uber city by city.)
+
+A spokeswoman for Lyft said: “Every day, more and more people choose Lyft because they believe ethics matter, service matters and they value a great experience. We are proud of the progress we’ve made but will never stop working to win the U.S. market.”
+
+This accounting of Lyft’s history is based on interviews with two dozen current and former Lyft and Uber employees, executives, investors and others in the field. It reveals previously unreported internal drama at Lyft, particularly the clashes between Lyft’s founders—Logan Green and John Zimmer—and former COO Travis VanderZanden, who wanted to lead the company. Our account also has new details of Lyft’s off-and-on discussions about merging with Uber in 2014, particularly Mr. VanderZanden’s role in those talks.
+
+Today Mr. VanderZanden poses a new potential threat because he runs an on-demand electric scooter service that may grab business away from on-demand cars like Lyft.
+
+Wall Street Hurdles
+
+Lyft’s ability to respond more quickly will determine whether it can thrive as a public company, a journey that likely will begin next year. Lyft, valued on paper at $10 billion, plans to go public before Uber so it can soak up as much investor interest in the sector as it can.
+
+But its IPO will prove a challenge. Investors could hold Lyft’s lack of profits against it: the company likely lost at least $500 million in the 2017 calendar year, based on its first-half 2017 financials.
+
+Also, while still substantial, the U.S. ride-hailing market is turning out to be a lot smaller than previously thought. And unlike Uber, Lyft hasn’t expanded overseas or into other businesses, like hot-food delivery.
+
+On the plus side, Lyft’s market share gains last year should improve its financial position. And there’s already some evidence Lyft is recruiting better talent, people at Uber say.
+
+Meanwhile, Uber’s new CEO Dara Khosrowshahi is expected to adopt a more “rational” approach to spending money than his predecessor, Travis Kalanick, which should allow Lyft to be more disciplined. Mr. Khosrowshahi effectively set a timeline for Uber to go public by the end of 2019, so he is under pressure to improve margins before then and has said he would. If Mr. Khosrowshahi raises prices or eases promotions for riders or drivers, Lyft could do the same.
+
+To expand its business in the meantime, Lyft is preparing to offer a new type of shared ride that is higher priced than Lyft Line—in which the car picks up multiple passengers going in roughly the same direction—but still cheaper than the “classic” private ride. The new ride type would limit the number of extra riders picked up, speeding up the ride, according to a person briefed about it at Lyft.
+
+Separately, Lyft wants to develop a cheaper ride than Lyft Line. Lyft has been closely watching Uber Express Pool—in which riders might walk to the pick-up point at the start of their trip and walk to their destination after being dropped off—which is priced less than UberPool. But Lyft doesn’t feel like it can pull that off right now without losing too much money, said the person.
+
+Lyft is also working on a project, codenamed “Perseus,” after the mythological, monster-slaying character, to expand its pool of drivers, one of the main issues blocking its growth. Lyft would do so by managing fleets of cars that are leased to potential drivers who don’t own a car. Uber tried and failed to do something similar, but its failed venture involved long-term leases and loans to drivers that ended up seeming predatory. The Lyft project is led by Jon McNeill, a former Tesla executive who Lyft recently hired as chief operating officer. 
+
+ 
+
+Fire and Urgency
+
+But the biggest issue for Lyft’s management is speeding up its response times. This concern goes back to when Lyft first launched in 2012, going up against Uber, which had launched in 2010 as a service powered by licensed, professional drivers. Lyft’s service, in contrast, relied on ordinary car owners—a model Uber eventually copied.
+
+In his 18-month stint between 2013 and 2014, Lyft’s then-COO Travis VanderZanden tried to change the business culture. He was hired with the job of “scaling” the business. He was the ideal choice, in some ways. Mr. VanderZanden cared about one thing: growth. He wanted Lyft to be the biggest ride-hailing company.
+
+Mr. VanderZanden, who is also known by his initials, “TV,” considerably ramped up hiring at Lyft. And he found ways to expand operations to new cities without opening local offices. One way he did that was to turn high-performing drivers into “mentors” who would get bonuses for recruiting other drivers to work for Lyft.
+
+He also green-lit a project called “pioneer” to hand out coupons to new Lyft riders to spur demand, while Lyft’s drivers would be guaranteed an hourly wage even if they didn’t get many rides. The pioneer initiative was controversial because some new riders got $500 or $1,000 worth of free rides, and they’d stop taking rides when the coupons ended.
+
+Some at the company felt Mr. VanderZanden didn’t have a plan to retain customers. But he argued the plan was “data driven” and that Lyft needed to demonstrate it was the “clear no. 2” player in ride-hailing in order to raise more money.
+
+But Mr. VanderZanden didn’t always see eye to eye with Lyft’s founders. For instance, Mr. Zimmer was obsessed with creating a differentiated brand from that of Uber or Sidecar, a ride-hailing app that prompted Messrs. Zimmer and Green to create Lyft. Mr. Zimmer had insisted every newly registered driver be interviewed to ensure they were a good cultural fit. Lyft’s tagline was “your friend with a car.” Lyft wanted drivers to let riders sit in the front seat and give them a “fist bump” when they entered the car.
+
+Mr. VanderZanden stopped this practice because it was impractical and slowed down growth. Lyft only had a couple hundred drivers when he started. By the time he finished, it had thousands.
+
+In the view of Mr. VanderZanden, the two founders simply weren’t focused enough on growth, according to people who spoke to him.
+
+Mr. VanderZanden “brought a fire and urgency that hadn’t been there prior,” said one longtime Lyft employee. Many other former colleagues grudgingly admit that, if not for Mr. VanderZanden, Lyft might have died from moving too slow.
+
+Uber Clash
+
+Mr. VanderZanden and the founders clashed more seriously over whether to merge with Uber.
+
+Uber approached Lyft about a possible combination in April 2014, after Lyft raised $250 million at a valuation of just under $1 billion. The Lyft funding appeared to concern Uber’s then-CEO Travis Kalanick, who realized the intense price war with Lyft then underway might last a long time.
+
+Privately, Mr. Kalanick had referred to Mr. Zimmer as “lame sauce,” a term Mr. Kalanick used to describe people whom he thought were inferior leaders, according to one person who spoke to Mr. Kalanick about the merger talks at the time. “He said, ‘I don’t want him to be near me,’” and put forth a rhetorical question: “Why would I buy them if I can kill them?” Still, the thought of ending the fight for the U.S. market was tempting. And most Uber senior executives at the time also wanted the company to buy Lyft.
+
+After preliminary discussions with Lyft’s founders about a merger in which Lyft shareholders might get somewhere around 10% of Uber’s paper valuation, Mr. Kalanick proposed a face-to-face meeting.
+
+Representatives of Andreessen Horowitz, which had invested about $60 million in Lyft in 2013, were skeptical about whether Mr. Kalanick was serious about a deal, and wanted to play hardball. They sent a negotiator from their firm, John O’Farrell, to attend the meeting with Mr. Kalanick.
+
+The meeting was held at Mr. Kalanick’s home in San Francisco’s Castro district. Messrs. Zimmer and O’Farrell sat around Mr. Kalanick’s kitchen table with Mr. Kalanick and his deputy, Emil Michael, who was himself a veteran deal negotiator. Mr. Kalanick put forth a term sheet offering Lyft an 8% stake in Uber.
+
+The Lyft team asked what Uber was worth at the time on its own, given that it had last been valued by investors at around $3.5 billion about a year earlier. The Uber duo said at least $10 billion, noting the recent $10 billion paper valuations placed on Airbnb and Dropbox by investors of those companies. At that price, the proposed Lyft stake in Uber would have been worth nearly $1 billion, though Mr. O’Farrell said he was skeptical of the proposed valuation.
+
+Even so, the percentage stake wasn’t anywhere near what Lyft’s founders were looking for. Before the meeting, Andreessen Horowitz had convinced the two to demand a much higher stake of 17% or 18%. The investor argued that the combined entity would be, as a de-facto monopoly, much more powerful than the two companies on their own.
+
+When the Lyft team put forward that figure, Mr. Kalanick was dismissive. “Are you crazy?” he asked them repeatedly.
+
+After some further discussion, the Uber team told the two Johns to go take a walk outside so they could huddle alone for a while. The Lyft group came back and waited in Mr. Kalanick’s living room for a few minutes, where they talked about his pet Bernese Mountain dog, who was also there. After Messrs. Kalanick and Michael came back, the group didn’t get any closer to a deal.
+
+Lyft’s Stumbles
+
+Shortly after, Lyft made a big mistake. Led by Mr. VanderZanden, the company started a high-end Lyft service, akin to Uber’s luxury ride option. But the initiative, called Lyft Plus, was a failure and cost the company money and resources. It was killed by September, but resentment lingered among drivers who, at Lyft’s suggestion, bought tricked-out white Ford Explorers that Lyft would promote on the app. In his defense, Mr. VanderZanden has told colleagues that he wanted drivers to use their existing high-end cars, not buy the special cars promoted by Lyft.
+
+Matters soon got worse. In June, Uber raised $1.2 billion at a $17 billion valuation, thus gaining leverage over Lyft because it had a lot more cash to burn. So Lyft’s founders decided to re-engage with Mr. Kalanick to negotiate a possible new deal.
+
+Mr. Michael handled those talks for Uber, and Lyft’s founders allowed Mr. VanderZanden to take the lead. But the talks broke down, again. The terms of the Lyft stake were roughly similar to the prior offer, but one big sticking point was around the Lyft co-founders’ role at Uber, including whether they would lose their potential “earnouts,” or future stock awards, if they were “fired for cause.” Mr. VanderZanden appeared to be disappointed about the missed opportunity, said one person who spoke to him at the time.
+
+Then Lyft made another error. The company spent nine months designing a shared-ride service called Lyft Line, offering much lower fares, which Lyft hoped would attract a much bigger audience.
+
+But before it unveiled the new service publicly, Lyft first briefed some tech reporters. One of the reporters told Uber about it. So Mr. Kalanick raced to publish a blog post about an identical service, UberPool, that was in “private beta”—in other words, not close to being released—before Lyft could unveil Lyft Line. Uber thus stole the PR thunder on offering on-demand shared rides despite the fact that Lyft’s version was actually ready. Uber took a few months to roll out its service. Lyft employees still talk about the episode with regret.
+
+The series of episodes appeared to have been the last straw for Mr. VanderZanden. He decided to quit, he has told people, because of frustrations with Lyft’s leadership and a worry that Lyft would get wiped out by Uber if a merger didn’t happen. He told the founders he would stay only if he were named CEO, but they weren’t interested. At some point he reached out to a board director to gain support for his CEO bid, but the director reported the encounter to Lyft’s founders.
+
+A few months later, Mr. VanderZanden joined Uber in a senior position. Several deputies he had hired at Lyft followed him. Lyft sued, claiming Mr. VanderZanden took with him proprietary documents (he denied the claims). The suit was later dropped as part of a broader settlement between the companies.
+
+For Lyft’s founders, the drama surrounding Mr. VanderZanden was traumatic. Mr. Zimmer told one colleague at the time: “This is the worst thing that’s happened to me in my career.”
+
+Power Vacuum
+
+By 2015, Lyft had less than 10% of the U.S. ride-hailing market by revenue, Uber estimated. Lyft had lots of drivers in San Francisco and Los Angeles, but didn’t have enough drivers most anywhere else, including New York, Chicago and Seattle. It needed to make sure cars would be available if people opened the app.
+
+To improve its efforts on the ground, Lyft started hiring general managers to oversee local operations, as Uber had been doing for years. Having local representatives made it easier for Uber figure out how to boost bonuses for drivers in certain areas at certain times—for instance, at the end of a concert or other events. Or to respond to predicted changes in weather, such as rain.
+
+To oversee that expansion, Lyft hired Rex Tibbens, who had worked for years at Amazon. Among other things, Mr. Tibbens had recruited thousands of part-time drivers to help deliver packages for the ecommerce giant.
+
+At least for a while, the local teams had a positive effect. But while Lyft’s availability was getting better, Uber stayed miles ahead in terms of being able to dispatch cars to its riders faster.
+
+Lyft also didn’t have automated tools to monitor Uber’s operations, such as how much Uber was charging for certain rides. That forced local Lyft managers to manually check Uber prices on an hourly basis at times, said one former employee. Uber, in contrast, had plenty of ways to monitor Lyft (including a legally questionable method).
+
+“Nobody had thought to solve this problem,” said one person familiar with Lyft’s operations. In early 2016, when a price-monitoring tool was proposed to Lyft’s product team so that it could be further developed, “you would have thought someone dropped a dead cat. They didn’t understand why we needed this, even though the operations side [the local general managers] loved it,” this person said.
+
+Lyft also didn’t have good tools to assess its own business performance on a daily basis. Lyft’s general managers would complain that they didn’t know how Lyft was performing in their market, in terms of how often there was surge pricing in response to a limited supply of drivers.
+
+During 2016, some Lyft employees pointed out a flaw that was costing the company tens of millions of dollars a year. The company had been offering new customers a coupon—basically the equivalent of a free ride—the moment they downloaded the app and opened it. That made no sense, because people were downloading Lyft with the intent to use it and most probably didn’t need the extra financial motivation. Executives in charge of promotions for riders killed the coupon.
+
+New Growth Hire
+
+In March 2016, Lyft hired a head of “growth,” or someone to help it get bigger, faster. The leader, Ran Makavy, an Israeli, had sold a mobile app development firm to Facebook in 2011 and helped Facebook grow its service in developing countries. He immediately became a strong presence at Lyft, even though no teams reported to him at first. Like many Israelis, he was blunt and spoke his mind, always questioning people’s assumptions and their work to their face.
+
+Mr. Green was enamored by Mr. Makavy’s style. “I think Logan wants to be Ran,” said one person who has worked with both men.
+
+One of the problems that became evident to executives including Mr. Makavy was Lyft’s slow product development process. Mr. Green sometimes had been reluctant to release a feature until it was perfect—the opposite of Uber’s approach. The ability for riders to request rides far in advance of when they needed them, also known as scheduled rides, took months because Mr. Green wanted it to work all the time, even for rides scheduled at 4am, when there might not be drivers available.
+
+Before Lyft could launch scheduled rides, Uber did so, in June, with a crude but effective solution: giving riders a 15-minute range for when they would be picked up. That window of time made it easier for Uber to dispatch a driver.
+
+Uber then beat Lyft to market with “upfront pricing,” telling a rider how much they would pay for a ride before they took it. People at Lyft had been advocating for such a feature for a long time, but Lyft executives were wary because the company couldn’t always accurately predict how long the rides would take, and the predicted ETA for a trip directly affects how much it costs.
+
+Lyft couldn’t figure out how Uber was able to launch the feature, and it took Lyft five months to catch up. Even then, the feature didn’t work well when the app charged some riders more than it had told them it would. That generated lots of complaints for months.
+
+Uber’s Gift
+
+In early 2017, the mood at Lyft was downbeat, some employees say. Uber was dominating ride-hailing. It was getting tough to see how Lyft could even capture 20% of the market.
+
+Much of Lyft’s problems were of the company’s own making. One former employee recalls a quarterly product performance meeting in January to review OKRs, or “objectives and key results,” for the fourth quarter of 2016. Only 1 out of 16 OKRs—related to reducing the amount prices surged automatically due to a lack of drivers—had been completed successfully.
+
+The missed goals included the cost of acquiring drivers, and how well Lyft retained riders and drivers over certain periods of time.
+
+“These were achievable goals,” said a person who attended. In other words, the misses mattered.
+
+Soon after, the first wave of problems hit Uber, starting with a social media #DeleteUber movement in response to its participation in a Trump administration transportation advisory group. The uproar brought more ride requests to Lyft from people who were defecting from Uber; one employee said it doubled the rate of Lyft rides for a month. Then came the blog post by Susan Fowler, describing a problematic engineering culture. Numerous issues were revealed thereafter.
+
+But with users defecting to Lyft en masse, Lyft took several weeks to turn off costly ads and promotions for riders. Many at the company felt the promotions should have been stopped right away. Aside from the need to save money, the promotions overloaded Lyft with more riders than its drivers could handle. The frequency of “surge pricing,” which is called “primetime” on the Lyft app, shot up.
+
+Lyft’s accelerated growth “was like Spain in the 1500s, when gold was pouring in from the New World. Uber could not stop tripping over itself. We’re on this righteous path, and it’s paying off now,” said a former manager. But just like in Spain, Lyft’s success was a “false economy” that didn’t necessarily reflect the health of its infrastructure. It masked Lyft’s chronic problems, and there were new ones.
+
+For instance, recruiting drivers to keep up with the growth in riders didn’t get much easier, no matter what the company seemed to do. (Uber has had a similar issue.) “The entire business moved to being driver focused,” said one person who was involved. Lyft employees approached possible drivers in online job forums. They pushed rental car firms to make more cars available to Lyft drivers.
+
+One problem was that because of Lyft’s hip, youthful brand, the company had trouble recruiting the kind of older, full-time drivers that Uber had in spades. Lyft also didn’t have enough tools to understand why some potential drivers didn’t get through the company’s Web-based driver sign-up process.
+
+The driver problems were exacerbated because Lyft, always concerned with the “quality” of the experience, in some cities didn’t allow people to drive cars that were more than 10 years old. That’s still the case in Las Vegas, whereas Uber allows cars that are up to 15 years old, meaning it has a bigger potential driver pool than Lyft.
+
+Still, despite the missteps, Lyft saw its market share rise to 30% nationally, in terms of revenue, becoming a widely recognized success story. (Lyft believes it has more than 33% market share in terms of rides.) The biggest gains appeared to happen on the West Coast, in cities like San Francisco and Seattle, where Lyft has cultivated a friendlier, more ethical image.
+
+‘Badass’ Dara
+
+But the improvement soon stalled. And after Uber appointed a new CEO in late August, the mood at Lyft went from euphoric to realistic. At a growth team meeting, an employee asked Mr. Makavy what he thought of Uber CEO Dara Khosrowshahi. “He seems like a badass,” Mr. Makavy responded, according to one person who attended. To the attendee, it felt like “the era of free growth might be kind of over. Nothing is going to get better than this year.”
+
+Before the end of the year, Mr. Green promoted Mr. Makavy to run all of engineering, product, design and growth, essentially gaining control of the core business. Lyft’s founders explained to some colleagues that they needed someone to make faster decisions and align the priorities of all those employees to do so. At the start of the year, Mr. Green announced a new OKR for the company, called “double your impact,” which asks each team to find ways “to do more with less” and “eliminate processes that slow you down.”
+
+Despite the turbulence at Uber, it has still stayed on top of the latest trends, apparently more so than Lyft. Many months ago, Uber created a product team—seemingly with a direct line to the CEO—to look for acquisition or partnership opportunities in electric bikes and scooters, the kinds of vehicles that might eat into shorter-distance car rides (the core business of Uber and Lyft).
+
+That led to Uber’s partnership with, and acquisition of, Jump, a small electric bike service. Whether that deal was worth paying $200 million for (mostly in stock) is anyone’s guess right now. But Mr. Khosrowshahi has publicly articulated a vision of Uber that can offer people multiple modes of transportation, while Lyft hasn’t yet.
+
+Now Lyft is trying to catch up with a deal or investment of its own. Lyft dispatched its head of corporate development to get to know some startups in that field, as opposed to others inside of Lyft who would end up working directly with the companies, should there be a deal. Mr. Zimmer has recently become personally involved. One of the major scooter companies, Bird, is run by Mr. VanderZanden. It’s doubtful he and Mr. Zimmer can work together again.

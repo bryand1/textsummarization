@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd "$(dirname "${BASH_SOURCE[0]}")"
+source ./apikeys.env
+python3 ./main.py
